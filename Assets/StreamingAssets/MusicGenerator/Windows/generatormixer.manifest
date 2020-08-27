@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 477133356
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df119cb61b908aa4f25ee2eba437fead
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57836fec4db301e25a9e024c7b365096
+HashAppended: 0
+ClassTypes:
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+Assets:
+- Assets/MusicGenerator/Assets/Resources/GeneratorMixer.mixer
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 434468932
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d5dad71973a1543a49e982a0deec1fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f41a3a6e17ecc9987da84cd238438ab7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5715eb756f16c4ce68db04515fa6e7b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempMusicPrefabs/P_CymbalHitMetal_2.prefab
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2093951267
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 669c9b1485e8ad8f4deae0bfebe308bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f41a3a6e17ecc9987da84cd238438ab7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5715eb756f16c4ce68db04515fa6e7b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempMusicPrefabs/FluteMid.prefab
+Dependencies: []

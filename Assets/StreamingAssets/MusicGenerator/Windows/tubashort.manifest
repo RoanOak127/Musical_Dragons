@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2808093021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7c4ac6a8ef9034b0167a188b2368eaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f41a3a6e17ecc9987da84cd238438ab7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5715eb756f16c4ce68db04515fa6e7b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TempMusicPrefabs/TubaShort.prefab
+Dependencies: []
